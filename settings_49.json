@@ -16,7 +16,8 @@
         "titleBar.activeBackground": "#d5b911",
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveBackground": "#d5b91199",
-        "titleBar.inactiveForeground": "#15202b99"
+        "titleBar.inactiveForeground": "#15202b99",
+        "tab.activeBorder": "#eed22b"
     },
     "peacock.color": "#d5b911"
 }
